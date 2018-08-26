@@ -1,3 +1,3 @@
 FROM dockersamples/static-site
-AUTHOR="itaosan33"
+ENV AUTHOR="itaosan33"
 
